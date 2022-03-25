@@ -7,9 +7,9 @@ Then answer in the space below each question:
 Eric
 
 2. Last name
-Zheng
+
 3. Favourite animal
-Tiger
+lion
 
 Now click the green 'commit changes' button at the bottom.
 
